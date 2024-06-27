@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/http//Nikhil5998.git.io/campaign-react/static/css/main.91d57007.css",
+    "main.js": "/http//Nikhil5998.git.io/campaign-react/static/js/main.6f68a5bd.js",
+    "static/js/453.f2f1c55e.chunk.js": "/http//Nikhil5998.git.io/campaign-react/static/js/453.f2f1c55e.chunk.js",
+    "static/media/leader3.jpg": "/http//Nikhil5998.git.io/campaign-react/static/media/leader3.822e9410ed9ac4c38b2f.jpg",
+    "static/media/leader2.jpg": "/http//Nikhil5998.git.io/campaign-react/static/media/leader2.2ca1dbd1c6c2409d651f.jpg",
+    "static/media/leader1.jpg": "/http//Nikhil5998.git.io/campaign-react/static/media/leader1.785aee00e1974ce47225.jpg",
+    "static/media/aboutus.jpg": "/http//Nikhil5998.git.io/campaign-react/static/media/aboutus.bae11e46570d450c4eb2.jpg",
+    "static/media/backgroundestat.jpg": "/http//Nikhil5998.git.io/campaign-react/static/media/backgroundestat.e8653e5e75a3d1bd83c7.jpg",
+    "static/media/logoestrategy.png": "/http//Nikhil5998.git.io/campaign-react/static/media/logoestrategy.cbd99dea286e1d53385e.png",
+    "index.html": "/http//Nikhil5998.git.io/campaign-react/index.html",
+    "main.91d57007.css.map": "/http//Nikhil5998.git.io/campaign-react/static/css/main.91d57007.css.map",
+    "main.6f68a5bd.js.map": "/http//Nikhil5998.git.io/campaign-react/static/js/main.6f68a5bd.js.map",
+    "453.f2f1c55e.chunk.js.map": "/http//Nikhil5998.git.io/campaign-react/static/js/453.f2f1c55e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d57007.css",
+    "static/js/main.6f68a5bd.js"
+  ]
+}
